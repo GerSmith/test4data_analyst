@@ -4,3 +4,4 @@
 ---
 ## stack 
 Python 3.11.1, Jupyter Notebook 6.5.2
+NumPy-1.24.1, Pandas-1.5.2, scikit-learn-1.2.0
