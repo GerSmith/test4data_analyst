@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # do not load csv datasets, please
-.csv
+*.csv
